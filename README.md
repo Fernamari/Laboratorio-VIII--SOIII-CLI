@@ -1,5 +1,5 @@
 # Laboratorio-VIII--SOIII-CLI
-Comandos CLI utilizados en el Laboratorio VIII de Sistemas Operativos III
+Comandos CLI utilizados en el Laboratorio VIII de Sistemas Operativos III.
 Este repositorio corresponde a los comandos utilizados durante el desarrollo del primer laboratorio de la asignatura Sistemas Operativos III, con el docente Adrián Alcántara, con los tópicos:
 
 1. Instalación y configuración de Docker
